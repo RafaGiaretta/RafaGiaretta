@@ -1,16 +1,34 @@
-### Hello, World! 👋
 
-My name is **Rafael Jeferson Giaretta**, and here's a little about me:
+## Olá, Mundo! 🖖ʙʀ
 
-- 🦷 I have a degree in **Dentistry**, where I learned the importance of details and precision.
-- 🌐 I serve as a **manager and administrator** for a major international brand, skills that have taught me to successfully lead projects and teams.
-- 🎓 Currently, I am broadening my horizons as a student of **Software Engineering**, passionate about solving problems and innovating.
-- 💻 **Programming** is more than a hobby for me; it's a passion that allows me to **imagine** and **create** solutions that can improve people's lives.
-- 🚀 I am always looking to learn more and take on new challenges. Let's connect and collaborate!
+Eu sou o **Rafael Jeferson Giaretta** e gostaria de compartilhar um pouco sobre mim e meus projetos:
+
+- 🎓    Atualmente estou cursando Bacharel em Engenharia de Software e sou apaixonado por solucionar problemas e inovar utilizando tecnologia. Meu foco principal está em **Java**, **Spring Boot**, **REST** e **AWS Cloud**.
+
+- 🚀     Estou sempre em busca de aprender mais e assumir novos desafios.
+
+- 🌐    Tenho formação na área da saúde e acumulei 10 anos de experiência gerenciando empresas e liderando equipes. Essa trajetória me ensinou valiosas habilidades interpessoais (soft skills) e a arte da liderança.
+ <br><br>
+
+## Hello, World! 🖖ɛɴ
+
+I'm **Rafael Jeferson Giaretta**, and I'd like to share a bit about myself and my projects:
+
+- 🎓 Currently, I'm pursuing a Bachelor's degree in Software Engineering, and I'm passionate about solving problems and innovating using technology. My main focus is on **Java**, **Spring Boot**, **REST**, and **AWS Cloud**.
+
+- 🚀 I'm always eager to learn more and take on new challenges.
+
+- 🌐 With a background in healthcare, I've accumulated 10 years of experience managing companies and leading teams. This journey has taught me valuable soft skills and the art of leadership.
 
 
+<div style="display: flex; align-items: center; justify-content: center"><br>
+  <img align="center" alt="JAVA" height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> .
+  <img align="center" alt="JAVA" height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg""> . 
+  <img align="center" alt="JAVA" height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  
+</div><Br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 ## 🔗 Links
@@ -20,7 +38,5 @@ My name is **Rafael Jeferson Giaretta**, and here's a little about me:
 
 
 
-## 🛠 Skills
 
-|![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)      |![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)    | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)||![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)|
--|-|-|-|-|-|-|-|-
+
