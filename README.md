@@ -32,7 +32,7 @@ I'm **Rafael Jeferson Giaretta**, and I'd like to share a bit about myself and m
   
 </div><Br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaGiaretta&layout=compact)
 
 
 ## 🔗 Links
