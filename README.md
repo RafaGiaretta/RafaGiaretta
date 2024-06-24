@@ -5,9 +5,11 @@ Eu sou o **Rafael Jeferson Giaretta** e gostaria de compartilhar um pouco sobre 
 
 - 🎓    Atualmente estou cursando Bacharel em Engenharia de Software e sou apaixonado por solucionar problemas e inovar utilizando tecnologia. Meu foco principal está em **Java**, **Spring Boot**, **REST** e **AWS Cloud**.
 
-- 🚀     Estou sempre em busca de aprender mais e assumir novos desafios.
+- 🚀    Estou sempre em busca de aprender mais e assumir novos desafios.
 
 - 🌐    Tenho formação na área da saúde e acumulei 10 anos de experiência gerenciando empresas e liderando equipes. Essa trajetória me ensinou valiosas habilidades interpessoais (soft skills) e a arte da liderança.
+
+- ⌨️    Linguagens que tenho conhecimento: C, PHP, SQL/MYSQL, HTML, CSS, Javascript, Python.
  <br><br>
 
 ## Hello, World! 🖖ɛɴ
@@ -20,7 +22,9 @@ I'm **Rafael Jeferson Giaretta**, and I'd like to share a bit about myself and m
 
 - 🌐 With a background in healthcare, I've accumulated 10 years of experience managing companies and leading teams. This journey has taught me valuable soft skills and the art of leadership.
 
-
+- ⌨️    Languages ​​I know: C, PHP, SQL/MYSQL, HTML, CSS, Javascript, Python.
+  <br><br>
+  
 <div style="display: flex; align-items: center; justify-content: center"><br>
   <img align="center" alt="JAVA" height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> .
   <img align="center" alt="JAVA" height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg""> . 
